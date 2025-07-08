@@ -1,4 +1,3 @@
-// Base class
 public class BankAccount {
     public int accountNumber;
     protected String accountHolder;
